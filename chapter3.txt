@@ -1,1 +1,0 @@
-This chapter 3 of the git lesson.
