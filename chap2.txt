@@ -1,1 +1,1 @@
-This is chapter two of the git tryout lesson
+This is chapter two of the git branching tryout lesson
